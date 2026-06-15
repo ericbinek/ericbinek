@@ -2,14 +2,18 @@
 
 <img src="profile.jpg" alt="Eric Binek" width="160" align="right" />
 
-AI Architect and full-stack engineer in Frankfurt. 25+ years building production
-software; IHK-certified trainer for IT specialists (Fachinformatiker, application
-development). Lately focused on AI integration, agent architectures, MCP and RAG.
+*AI Architect & full-stack engineer · Frankfurt am Main*
+
+25+ years building production software; IHK-certified trainer for IT specialists
+(Fachinformatiker, application development). Lately focused on AI integration,
+agent architectures, MCP and RAG.
 
 I use AI to build faster; the architecture, the decisions and the understanding
 stay mine. Most of my current work I build in the open.
 
 <br clear="all" />
+
+---
 
 ### Currently building
 
