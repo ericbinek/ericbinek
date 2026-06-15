@@ -2,7 +2,7 @@
 
 <img src="profile.jpg" alt="Eric Binek" width="160" align="right" />
 
-*AI Architect & full-stack engineer · Frankfurt am Main*
+*Full Stack Engineer · Frankfurt am Main*
 
 25+ years building production software; IHK-certified trainer for IT specialists
 (Fachinformatiker, application development). Lately focused on AI integration,
